@@ -1,0 +1,11 @@
+A:\KULIAH\Semester III\pemrogramanII\P6_2_1204045\P6_2_1204045\bin\Debug\P6_2_1204045.exe.config
+A:\KULIAH\Semester III\pemrogramanII\P6_2_1204045\P6_2_1204045\bin\Debug\P6_2_1204045.exe
+A:\KULIAH\Semester III\pemrogramanII\P6_2_1204045\P6_2_1204045\bin\Debug\P6_2_1204045.pdb
+A:\KULIAH\Semester III\pemrogramanII\P6_2_1204045\P6_2_1204045\obj\Debug\P6_2_1204045.csproj.AssemblyReference.cache
+A:\KULIAH\Semester III\pemrogramanII\P6_2_1204045\P6_2_1204045\obj\Debug\P6_2_1204045.csproj.SuggestedBindingRedirects.cache
+A:\KULIAH\Semester III\pemrogramanII\P6_2_1204045\P6_2_1204045\obj\Debug\P6_2_1204045.Form1.resources
+A:\KULIAH\Semester III\pemrogramanII\P6_2_1204045\P6_2_1204045\obj\Debug\P6_2_1204045.Properties.Resources.resources
+A:\KULIAH\Semester III\pemrogramanII\P6_2_1204045\P6_2_1204045\obj\Debug\P6_2_1204045.csproj.GenerateResource.cache
+A:\KULIAH\Semester III\pemrogramanII\P6_2_1204045\P6_2_1204045\obj\Debug\P6_2_1204045.csproj.CoreCompileInputs.cache
+A:\KULIAH\Semester III\pemrogramanII\P6_2_1204045\P6_2_1204045\obj\Debug\P6_2_1204045.exe
+A:\KULIAH\Semester III\pemrogramanII\P6_2_1204045\P6_2_1204045\obj\Debug\P6_2_1204045.pdb
